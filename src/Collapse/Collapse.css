@@ -1,0 +1,38 @@
+.Wh{
+    height: 432px;
+    gap: 32px;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+.font {
+  font-family: inter;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 48px;
+  line-height: 100%;
+  letter-spacing: -3%;
+  color: #1B1743;
+
+}
+.contentText {
+  font-family: Inter;
+  font-weight: 600;
+  font-style: Semi Bold;
+  font-size: 28px;
+  line-height: 40px;
+  letter-spacing: -3%;
+  color: #1B1743;
+}
+.bodyText {
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0%;
+  color: #2A2F32;
+}
+.line{
+    border-bottom: 1px solid rgb(181, 180, 180);
+}
